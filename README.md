@@ -1,5 +1,5 @@
 # Relationship between Health Insurance Coverage and Age Among Different U.S. Regions Research
-### Sypnosis of Research Project for ECMT 463 (Introduction to Econometrics)
+### Sypnosis of Research Project for ECMT 461 (Economic Data Analysis)
 ----------------
 #### Disclaimer: This is a quick summary of the scenario, method, and results for this topic that I researched and is not comprehensive. For more comprehensive details, check the research paper pdf that is attached in the main branch of this repository.
 ----------------
